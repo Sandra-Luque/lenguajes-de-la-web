@@ -1,0 +1,20 @@
+
+h1{
+	color: #d51616;
+	font-family: Arial;
+	font-size: 20px;
+}
+ul li img{
+	border: 1px solid blue;
+}
+
+ul  li p {
+	margin-top: 20px;
+	color: yellow; 
+	font-size: 14px;
+}
+
+h2{
+	color: black;
+	font-size: 16px;
+}
